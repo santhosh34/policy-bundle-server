@@ -1,0 +1,7 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: policy-bundle-server
+  webflux:
+    base-path: /v1
