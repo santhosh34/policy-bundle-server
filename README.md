@@ -1,2 +1,2 @@
 # policy-bundle-server
-Spring Boot Reactive Static Server which servers ABAC Policy Bundles
+Spring Boot Reactive Server which servers ABAC Policy Bundles - Static files
